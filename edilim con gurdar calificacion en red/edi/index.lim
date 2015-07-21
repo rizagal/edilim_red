@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>FFFF00</corfondo>
+        <corbanda>0637F9</corbanda>
+        <cornavega>FF8080</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>FF8080</cortexto>
+        <titulo>PRUEBA2</titulo>
+        <subtitulo>VER</subtitulo>
+        <autor>MAS</autor>
+        <iden>CALI</iden>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >SE CALIFICO</correcto>
+        <incorrecto son="" modo="1" >SE CALIFICO</incorrecto>
+        <final></final>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>46</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <mais ir="CASA.HTML">REVI</mais>
+              <evalua  crt="BIEN" icrt="VUELVE">1</evalua>
+              <etiqueta texto="BIEN"  posy="1">BUENO</etiqueta>
+              <etiqueta texto="ANDAR"  posy="2">CARRO</etiqueta>
+              <etiqueta texto="POEMA"  posy="3">AMOR</etiqueta>
+        </paxina>
+        <paxina id="2" >
+              <tipo>12</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <modo>1</modo>
+        </paxina>
+    </libro>
+</lim>
